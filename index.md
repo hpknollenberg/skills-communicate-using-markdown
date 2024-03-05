@@ -3,3 +3,6 @@
 ``` javascript
 var introSandman = "Hello, my name is Morpheus";
 ```
+- [ ] Introduce myself.
+- [ ] Provide a picture of the Sandman.
+- [ ] Have the Sandman introduce himself in code.
